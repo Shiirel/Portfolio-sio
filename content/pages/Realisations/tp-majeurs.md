@@ -15,7 +15,7 @@ L’éditeur de texte utilisé est Sublime Text.
 
 Le serveur GIT nous a permis de collaborer et d’échanger nos codes.
 
-<img src="images/samegame.png"/>
+<img src="../images/samegame.png"/>
 
 
 ---
@@ -43,7 +43,7 @@ Main.java
 
 Chaque fichier est consacré à l’une des cinq classes principales de notre jeu. Ces classes ont été déterminées via un travail de réflexion en amont, et recensés dans un diagramme de classes à partir du logiciel StarUML :
 
-<img src="images/diagSamegame.png"/>
+<img src="../images/diagSamegame.png"/>
 
 
 
@@ -58,7 +58,3 @@ Créer des fichiers différents pour chaque classe assure une meilleure lisibili
 
 D’autre part, ce projet m’a permis de me familiariser davantage avec des aspects techniques de la programmation. 
 En effet, les notions d’héritage, d’interface et de récursivité ont été largement abordées durant le développement du jeu. 
-
-
-
-## Seconde année de BTS SIO :

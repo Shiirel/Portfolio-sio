@@ -6,14 +6,15 @@ Après un Bac **Général** spécialitées **Mathématiques**,**SES**, et **Phys
 j'avais la volonté de poursuivre dans le domaine de l'informatique.
 
 
-**1. BUT Informatique** (ex-DUT) :
+### 1. BUT Informatique (ex-DUT) :
 
 - **<u>Durée :</u>** 1 an (réorientation à l'issue de la première année)
 - **<u>Matières:</u>** développement, systèmes et réseaux, bases de données, gestion de projets.
 
 
 <br>
-**2. BTS SIO** (**S**ervices **I**nformatiques aux **O**rganisations)
+
+### 2. BTS SIO (**S**ervices **I**nformatiques aux **O**rganisations)
 
 - **<u>Durée :</u>** 2 ans
 - **<u>Option :</u>**
@@ -21,7 +22,9 @@ j'avais la volonté de poursuivre dans le domaine de l'informatique.
 
 
 
-<br>**3. Poursuite Envisagée**
+<br>
+
+### 3. Poursuite Envisagée
 
 - **<u>Licence Professionnelle</u>**
     - **<u>Durée :</u>** 1 an

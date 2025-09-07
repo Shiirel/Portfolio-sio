@@ -27,7 +27,7 @@ l’organisme et tuteur de stage.
 
 ---
 
-# Missions & tâches réalisés : 
+# Missions & tâches réalisées : 
 
 
 Ma mission lors de ce stage de six semaines était de contribuer au développement du site
@@ -73,6 +73,8 @@ permettant un meilleur suivi des flux financiers entre les instances.
   </tr>
 </table> 
 
+
+<a href="../images/RapportDeStage.pdf" target="_blank">Voir le détail</a>
 
 **- Semaine 1 :**
 <br>La première semaine m’a permise de me familiariser avec le site déjà existant. Le premier

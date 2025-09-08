@@ -5,31 +5,19 @@ Title: Parcours scolaire
 Après un Bac **Général** spécialitées **Mathématiques**,**SES**, et **Physique Chimie**
 j'avais la volonté de poursuivre dans le domaine de l'informatique.
 
-
-### 1. BUT Informatique (ex-DUT) :
-
-- **<u>Durée :</u>** 1 an (réorientation à l'issue de la première année)
-- **<u>Matières:</u>** développement, systèmes et réseaux, bases de données, gestion de projets.
-
-
 <br>
-
-### 2. BTS SIO (**S**ervices **I**nformatiques aux **O**rganisations)
-
-- **<u>Durée :</u>** 2 ans
-- **<u>Option :</u>**
-    - **SLAM** (**S**olutions **L**ogicielles et **A**pplications **M**étiers) → développement d’applications, web, bases de données.
-
-
-
-<br>
-
-### 3. Poursuite Envisagée
-
-- **<u>Licence Professionnelle</u>**
-    - **<u>Durée :</u>** 1 an
-    - **<u>Domaines :</u>** Cybersécurité, Développement, Data<br>
-
-- **<u>Licence Générale</u>**
-    - **<u>Durée :</u>** 2 ou 3 ans
-    - **<u>Domaines :</u>** Cybersécurité, Développement, Data
+<table>
+  <tr>
+    <th>2022-2023 - BUT INFORMATIQUE (ex-DUT)</th>
+    <th>2024-2026 - BTS SIO</th>
+    <th>2026-2027 - POURSUITE ENVISAGEE</th>
+  </tr>
+  <tr>
+    <td><strong>- Durée :</strong> 1 an (réorientation à l'issue de la première année)<br>
+    <strong>- Matières:</strong> développement, systèmes et réseaux, bases de données, gestion de projets.</td>
+    <td><strong>- Durée :</strong> 2 ans<br>
+    <strong>- Option :</strong><strong> SLAM</strong> (<strong>S</strong>olution <strong>L</strong>ogicielles <strong>A</strong>pplications <strong>M</strong>étiers → développement d’applications, web, bases de données. )</td>
+    <td><strong><u>Licence Générale</u></strong><br>- Durée : 1 ou 2 ans <br> - Domaines : Cybersécurité, Développement, Data
+    <br><br><strong><u>Licence Professionnelle</u></strong><br>- Durée : 1 an (en alternance) <br> - Domaines : Cybersécurité, Développement, Data</td>
+  </tr>
+</table>

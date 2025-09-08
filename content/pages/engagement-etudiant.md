@@ -1,4 +1,4 @@
-Title: Engagement étudiant
+<!-- Title: Engagement étudiant
 
 
 # 🤝 Engagement Étudiant
@@ -29,3 +29,4 @@ En parallèle de mes études en BTS SIO, je suis **pompier volontaire** depuis 2
 ---
 
 📌 *Mon engagement de pompier volontaire illustre ma motivation à mettre mes compétences au service des autres, que ce soit dans le cadre d’interventions d’urgence ou dans mes projets informatiques.*  
+ -->
